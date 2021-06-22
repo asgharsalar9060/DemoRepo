@@ -12,7 +12,7 @@ public class StashAndStashPop {
 	}
 	
 	public void test2() {
-		System.out.println("local repo");
+		System.out.println("remote repo");
 	}
 
 }
