@@ -10,5 +10,9 @@ public class StashAndStachPop {
 	public void test() {
 		System.out.println("local test repo...");
 	}
+	
+	public void automation() {
+		System.out.println("local repo...");
+	}
 
 }
