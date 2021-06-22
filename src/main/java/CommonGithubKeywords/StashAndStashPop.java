@@ -7,6 +7,8 @@ public class StashAndStashPop {
 
 	}
 	
-	
+	public void test2() {
+		System.out.println("local test2 method");
+	}
 	
 }
